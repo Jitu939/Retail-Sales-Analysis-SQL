@@ -1,0 +1,35 @@
+ Project Title:
+Retail Sales Analysis Using SQL
+
+✅ Problem Statement:
+A retail company wants to analyze its sales performance to improve profitability and customer satisfaction. The management is seeking insights into:
+
+Which products are the best sellers and which are underperforming
+
+Revenue trends over time (monthly, quarterly, yearly)
+
+Customer purchasing behavior (top customers, average order value)
+
+Impact of discounts on sales and profitability
+
+Regional sales performance
+
+
+
+✅Write SQL queries to answer:
+
+Total revenue, total orders, and total customers
+
+Top 10 best-selling products
+
+Monthly revenue trend for the last 12 months
+
+Average order value per customer
+
+Top 5 customers by revenue
+
+Sales contribution by region
+
+Products with the highest discount usage
+
+Category-wise sales and profit
